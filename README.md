@@ -13,3 +13,8 @@ KiwiPyCon2017_cs_dbus_pydbus.odp is the main slide presentation file suitable fo
 
 KiwiPyCon2017_cycle_analyst.odp is a brief slide show of a practical example of Client/Server. It is also available as a pdf.
 
+A video of delivering this presentation is available on [youtube](https://www.youtube.com/watch?v=TMuFZwB_rmQ).
+
+Ian Stewart.
+CC0
+
